@@ -1,0 +1,5 @@
+Ivanov 15000
+Petrov 25000
+Sidorov 35000
+Holmogorov 19000
+Romanov 17500
